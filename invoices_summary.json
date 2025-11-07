@@ -1,0 +1,37 @@
+[
+  {
+    "invoice_number": "INV-9822",
+    "business_name": "Mike's Auto Repair",
+    "customer_name": "John Smith",
+    "date": "2025-08-15T15:12:15.075495",
+    "total": 615.6
+  },
+  {
+    "invoice_number": "INV-3636",
+    "business_name": "Tom's Landscaping",
+    "customer_name": "Mary Johnson",
+    "date": "2025-08-08T15:12:19.402075",
+    "total": 334.8
+  },
+  {
+    "invoice_number": "INV-1911",
+    "business_name": "Tom's Landscaping",
+    "customer_name": "John Smith",
+    "date": "2025-08-07T15:12:20.274251",
+    "total": 351.0
+  },
+  {
+    "invoice_number": "INV-7627",
+    "business_name": "Sarah's Bakery",
+    "customer_name": "Lisa Wilson",
+    "date": "2025-09-02T15:12:21.277745",
+    "total": 191.16
+  },
+  {
+    "invoice_number": "INV-1136",
+    "business_name": "Tom's Landscaping",
+    "customer_name": "Mary Johnson",
+    "date": "2025-08-06T15:12:22.155410",
+    "total": 291.6
+  }
+]
